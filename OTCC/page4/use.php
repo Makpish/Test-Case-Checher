@@ -59,7 +59,7 @@
 	{
 	//$output=nl2br($output);
 	error_reporting(0);
-	$connect = mysqli_connect("localhost", "root", "Asdfasf2", "tcc_db");
+	$connect = mysqli_connect("localhost", "root","", "tcc_db");
 	if($connect){
 		$in=$_POST['inputt'];
 		$QUERY="insert into $site (question,input) values('$ques', '$in')";
