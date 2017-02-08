@@ -1,0 +1,42 @@
+#r-nav{
+	float:right;
+}
+
+#texxt {
+	height:270px;
+	width:100%;
+	margin-bottom:20px;
+	background-image:url("blue.jpg");
+	font-size: 5em !important;
+	font-family: 'Arvo', serif;
+	padding:6%;
+	text-align:center !important;
+}
+
+#fontt {
+	font-family: 'Gravitas One', cursive;
+	font-size: 1.4em;
+}
+
+#f_head{
+padding: 200px;
+}
+
+.tales{
+width:100%;
+height:450px!important;
+}
+
+.card {
+ width:40px !important;
+}
+
+#footer{
+	background-color: #111111;
+	padding:100px;
+	text-align:center;
+}
+
+.fa-foot{
+font-size:25px;
+}

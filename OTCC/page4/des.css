@@ -1,0 +1,21 @@
+#r-nav{
+	float:right;
+}
+
+.range{
+	padding:20px;
+}
+
+#cent{
+	text-align:center;
+}
+
+#footer{
+	background-color: #111111;
+	padding:10px;
+	text-align:center;
+}
+
+.fa-foot{
+font-size:25px;
+}

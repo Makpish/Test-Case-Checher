@@ -1,0 +1,69 @@
+#r-nav{
+	float:right;
+}
+
+h1 {
+	font-size: 60px !important;
+}
+.main-text {
+    position: absolute;
+    top: 27%;
+    left: 1.8%;
+    right: auto;
+    width: 96.66666666666666%;
+    color: #fff;
+}
+
+.btn-min-block
+{
+    min-width: 170px;
+    line-height: 30px !important;
+}
+.btn-clear
+{
+    color: #FFF !important;
+    border-color: #FFF !important;
+    margin-right: 15px;
+}
+
+.carousel img {
+    height: 600px !important;
+}
+
+#f_head{
+text-align: center !important;
+}
+
+#s_head{
+padding:70px;
+}
+
+#aws1{
+font-size:200px;
+padding:5%;
+text-align: center !important;
+}
+
+#team{
+background-color:#F3F3F3;
+padding:70px;
+}
+
+.tales{
+width:100%;
+height:450px!important;
+}
+
+.aligncen {
+	text-align: center;
+}
+
+#footer{
+	background-color: #111111;
+	padding:100px;
+	text-align:center;
+}
+
+.fa-foot{
+font-size:25px;
+}
