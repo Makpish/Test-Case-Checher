@@ -9,3 +9,12 @@ Then you can run site without problems.
 
 ## HomePage
 ![Homepage](/test_home.PNG?raw=true "Homepage")
+
+## Site Selection Page
+![page2](/test_pg2.PNG?raw=true "Page 2")
+
+## Question Selection Page
+![Page 3](/test_3.PNG?raw=true "Page 3")
+
+## Input Page and Database
+![page](/test_4.PNG?raw=true "page 4")
