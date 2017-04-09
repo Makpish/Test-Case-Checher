@@ -8,4 +8,4 @@ Configure the database with tables.
 Then you can run site without problems.
 
 ## HomePage
-![Homepage](/blob/master/test_home.PNG?raw=true "Homepage")
+![Homepage](/test_home.PNG?raw=true "Homepage")
